@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "595524077101",
+    "project_id": "dealss-cd8ed",
+    "storage_bucket": "dealss-cd8ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595524077101:android:5ccda0789ce8ee219e1aa4",
+        "android_client_info": {
+          "package_name": "com.kaunain_shaikh.dealss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq5ONi_WvRBS05BXiAsyOX8gRHAKtUlFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
